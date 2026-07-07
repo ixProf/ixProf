@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mahmoud%20Sayed%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20ASP.NET%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ProfThorfinn">
-    <img src="https://komarev.com/ghpvc/?username=ProfThorfinn&label=Profile%20views&color=00FFFF&style=flat-square" alt="ProfThorfinn's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=ixProf">
+    <img src="https://komarev.com/ghpvc/?username=ixProf&label=Profile%20views&color=00FFFF&style=flat-square" alt="ixProf's profile views" />
   </a>
 </p>
 
@@ -37,16 +37,16 @@ I enjoy learning new technologies, solving challenging problems, and transformin
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/ProfThorfinn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ProfThorfinn&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ProfThorfinn's GitHub Stats" />
+  <a href="https://github.com/ixProf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ixProf&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ixProf's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ProfThorfinn&theme=radical&hide_border=true&cache_seconds=86400" alt="ProfThorfinn's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ixProf&theme=radical&hide_border=true&cache_seconds=86400" alt="ixProf's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ProfThorfinn&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahmoud Sayed Mohamed's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=ixProf&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahmoud Sayed Mohamed's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ProfThorfinn&theme=radical&radius=10" alt="ProfThorfinn's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ixProf&theme=radical&radius=10" alt="ixProf's Activity Graph" />
 </p>
 
 
@@ -103,12 +103,12 @@ I enjoy learning new technologies, solving challenging problems, and transformin
 </p>
 
 <p align="center">
-  <a href="https://github.com/ProfThorfinn">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ProfThorfinn&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/ixProf">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ixProf&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=ProfThorfinn)
+![Top language](https://stats.pphat.top/languages?username=ixProf)
 <br/>
 
 ## 🔗 Connect with Me
